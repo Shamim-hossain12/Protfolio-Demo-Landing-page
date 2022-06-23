@@ -1,0 +1,120 @@
+            * {
+                padding: 0;
+                margin: 0;
+            }
+            
+            .top-header {
+                /* background-color: aqua; */
+                height: 100px;
+                width: 100%;
+            }
+            
+            .img1 {
+                height: 100px;
+                width: 200px;
+                margin-left: 150px;
+            }
+            
+            span {
+                float: right;
+                margin-right: 50px;
+                word-spacing: 30px;
+                margin-top: 40px;
+                text-transform: uppercase;
+                text-decoration: none;
+            }
+            
+            span :hover {
+                background-color: rgba(84, 165, 29, 0.842);
+                padding: 20px;
+                border-radius: 20px;
+                text-decoration: none;
+            }
+            
+            .cpagrip {
+                /* float: right; */
+                color: blue;
+                margin-right: 130px;
+                margin-top: 30px;
+                letter-spacing: 20px;
+                text-decoration: none;
+            }
+            
+            .bottom-header {
+                background-color: rgba(32, 99, 223, 0.562);
+                height: 900px;
+                width: 100%;
+            }
+            
+            .b-header1 {
+                text-align: center;
+                text-transform: capitalize;
+                color: white;
+                margin-bottom: 20px;
+            }
+            
+            .b-header2 {
+                text-align: center;
+                margin-top: 20px;
+                text-transform: uppercase;
+                color: white;
+            }
+            
+            .b-header3 {
+                text-align: center;
+                margin-top: 30px;
+                text-transform: capitalize;
+                color: white;
+            }
+            
+            .img3 {
+                margin: auto;
+            }
+            
+            .img2 {
+                margin-top: 50px;
+                height: 400px;
+                width: 400px;
+                margin-left: 500px;
+                margin-top: 40px;
+            }
+            
+            .font-awesome {
+                /* background-color: #fff; */
+                /* height: 300px; */
+                margin: 50px;
+                text-align: center;
+            }
+            
+            .f-color {
+                /* background-color: red; */
+                padding: 30px;
+                margin-top: 50px;
+                font-size: 50px;
+            }
+            
+            .f-color :hover {
+                background-color: rgb(252, 215, 8);
+                padding: 30px;
+                border-radius: 20px;
+            }
+            
+            .end-b-h {
+                text-align: center;
+            }
+            
+            .b-h1 {
+                background-color: black;
+                margin-right: 50px;
+                font-size: 40px;
+                color: blanchedalmond;
+                text-transform: capitalize;
+            }
+            
+            .b-h2 {
+                background-color: blue;
+                margin-right: 50px;
+                font-size: 40px;
+                color: blanchedalmond;
+                text-transform: capitalize;
+            }
